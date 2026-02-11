@@ -50,4 +50,5 @@ Matematika Diskrit
 
 ## ✍️ Penulis
 
-Rafakurnia
+Muhammad Rafa Kurnia
+
